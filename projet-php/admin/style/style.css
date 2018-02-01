@@ -1,0 +1,33 @@
+@charset "UTF-8";
+#form_connexion,#form_personnel,#form_categorie ,#form_produit ,#form_ssCateg{
+	margin-top: 2%;
+	background-color: #fff;
+	box-shadow: 0 3px 3px #ddd;
+	padding:10px;
+}
+.formulaires{
+	margin-top: 2%;
+	background-color: #fff;
+	box-shadow: 0 3px 3px #ddd;
+	padding:10px;
+	padding-top: 100px;
+}
+.btnListe{
+	margin-right: 120px;
+	margin-top: 30px;
+	box-shadow: 0 2px 2px red;
+}
+a[name="btnHome"]{
+
+	position: fixed;
+	left: 0.65em 1;
+	top:1px;
+}
+a[name="btnHome"]:hover{
+	box-shadow: 0 3px 4px red;
+}
+.tables{
+	box-shadow: 2px 0px 3px #ddd;
+	padding-top: 20px;
+	margin-top: 40px;
+}
